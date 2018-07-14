@@ -1,0 +1,1 @@
+Most of the code in this reposetory was taken from https://github.com/abisee/pointer-generator
